@@ -200,7 +200,7 @@ console.log("Autoplay blocked until user interaction.");
 }
 const dayCounter=document.getElementById("dayCounter");
 
-const relationshipStart=new Date("2026-06-20T00:00:00");
+const relationshipStart=new Date("2026-03-09T00:00:00");
 
 function updateDays(){
 
